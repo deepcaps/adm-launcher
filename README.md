@@ -114,3 +114,43 @@ Le programme vous demande maintenant le mot de passe pour le compte : entrez en 
 
 
 # Guide d'utilisation
+
+## Mode manuel
+
+Pour lancer le **ADMLauncher** de façon manuelle, il existe plusieurs façons:
+- Par le raccourci sur le _bureau_
+- Par le raccourci dans le _menu démarrer_
+- Dans la _ligne de commande_ ou dans la _fenêtre "executer"_ (WIN + R) en entrant la commande `ADMLauncher`  
+La fenêtre suivante s'ouvrira:
+
+![launcher-menu](./images/launcher-menu.png)
+
+Vous devrez donc entrer le chemin d'un programme que vous voulez lancer en **Administrateur** ou le _glisser-déposer_
+> Exemple: _C:\Windows\system32\cmd.exe_ (pour lancer une _invite de commande_)
+
+**ADMLauncher** vous demandera le _mot de passe Administrateur_ (mot de passe que vous avez créé durant l'installation).
+
+![launcher-mdp](./images/launcher-mdp.png)
+
+Une fois cela fait, le programme se lance.
+
+## Mode automatique
+
+Il existe toutefois, une façon de lancer **ADMLauncher** directement avec le chemin du programme inscrit.  
+Pour cela: _clique droit_ > _Open in ADM mode_  
+
+![context-menu](./images/context-menu.png)
+
+Il ne vous restera plus qu'à entrer le _mot de passe Administrateur_ et votre programme se lancera.
+
+![launcher-end](./images/launcher-end.png)
+
+
+# Me contacter
+Vous pouvez me contacter à l'adresse [**deepcaps@outlook.com**](deepcaps@outlook.com) pour me faire parvenir les bugs ou les fonctionnalités à rajouter.
+
+
+# Infos
+![MAINTENED](https://img.shields.io/badge/maintained-yes-green.svg)
+
+![infos](https://github-readme-streak-stats.herokuapp.com/?user=deepcaps)
