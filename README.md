@@ -14,14 +14,14 @@ _ADMLauncher_ est un script codé en **batch** et fournis avec les programmes d'
 
 # Procédure
 
-## Installation du fichier ISO
+## Installation du fichier IMG
 > Vous devez tout d'abord avoir téléchargé le repository sur une autre machine `git clone https://github.com/deepcaps/adm-launcher.git` et avoir une clée USB d'au moins **8 gigaoctets**
 
 Pour commencer, installez le programme [**rufus**](https://rufus.ie/) (ou autre) pour graver le fichier ISO sur une clef USB.
 
-Ensuite, gravez le fichier ISO sur la clef USB:
+Ensuite, gravez le fichier IMG sur la clef USB:
 - "_Périphérique_" => Sélectionnez votre Périphérique USB
-- "_Type de démarrage_" => Sélectionnez l'ISO du repository github
+- "_Type de démarrage_" => Sélectionnez l'IMG du repository github
 Enfin, cliquez sur "_DEMARRER_" pour lancer la procédure.
 
 > Attention ! Tous les fichiers sur la clef seront supprimés !
@@ -59,7 +59,7 @@ Cliquez ensuite sur "_EFI USB Device_"
 La machine devrait maintenant redémarrer sur la clef USB.
 
 
-### Pre-setup
+# Pre-setup
 
 Choisissez votre disposition de clavier puis accédez à la ligne de commande en suivant ce chemin : _Dépannage_ > _Options avancées_ > _Command Prompt_
 
@@ -94,7 +94,7 @@ Appuyez sur [ENTER] pour lancer le processus.
 ![usb-windows](./images/usb-windows.png)
 
 
-### Setup
+# Setup
 
 De retour sur Windows, **NE VOUS CONNECTEZ PAS A VOTRE SESSION**. Appuyez 5 fois sur la touche [SHIFT].  
 Une nouvelle _ligne de commande_ va s'ouvrir ! Entrez la commande `G:\ADMSetup.exe`
@@ -113,4 +113,4 @@ Le programme vous demande maintenant le mot de passe pour le compte : entrez en 
 **FELICITATION !!** _ADMLauncher_ est maintenant installé. **Vous êtes administrateur** !
 
 
-## Guide d'utilisation
+# Guide d'utilisation
