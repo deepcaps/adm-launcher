@@ -15,17 +15,17 @@ _ADMLauncher_ est un script codé en **batch** et fournis avec les programmes d'
 # Procédure
 
 ## Installation du fichier IMG
-> Vous devez tout d'abord avoir téléchargé le fichier IMG ([**ADMUnlocker**](https://mega.nz/file/9W8FRDRI#3t4p2cjug4cY-n-gueZFrVtTZZJGgvlwbI6iUzkBnP0/)) et avoir une clée USB d'au moins **8 gigaoctets**
+> Vous devez tout d'abord avoir téléchargé le fichier IMG ([**ADMUnlocker**](https://mega.nz/file/9W8FRDRI#3t4p2cjug4cY-n-gueZFrVtTZZJGgvlwbI6iUzkBnP0/)) et avoir une clé USB d'au moins **8 gigaoctets**
 
 Pour commencer, installez le programme [**rufus**](https://rufus.ie/) (ou autre) pour graver le fichier IMG.
 
-Ensuite, gravez le fichier IMG sur la clef USB:
+Ensuite, gravez le fichier IMG sur la clé USB:
 - "_Périphérique_" => Sélectionnez votre Périphérique USB
 - "_Type de démarrage_" => Sélectionnez l'IMG du repository github
 
 Enfin, cliquez sur "_DEMARRER_" pour lancer la procédure.
 
-> Attention ! Tous les fichiers sur la clef seront supprimés !
+> Attention ! Tous les fichiers sur la clé seront supprimés !
 
 ![rufus](./images/rufus.png)
 
@@ -46,8 +46,8 @@ Pour finir, dans "_Démarrage avancé_", cliquez sur "**Redémarrer maintenant**
 ![restart-button](./images/restart-button.png)
 
 
-### Démarrer sur la clef USB
-> Vous devez maintenant insérer la clef USB créée à l'étape précédente.
+### Démarrer sur la clé USB
+> Vous devez maintenant insérer la clé USB créée à l'étape précédente.
 
 L'appareil devrait redémarrer puis afficher un écran bleu avec plusieurs options. Cliquez sur "_Utiliser un périphérique_".
 
@@ -57,7 +57,7 @@ Cliquez ensuite sur "_EFI USB Device_"
 
 ![boot-device](./images/boot-device.png)
 
-La machine devrait maintenant redémarrer sur la clef USB.
+La machine devrait maintenant redémarrer sur la clé USB.
 
 
 # Pre-setup
@@ -71,12 +71,12 @@ Choisissez votre disposition de clavier puis accédez à la ligne de commande en
 ![usb-cmd](./images/usb-cmd.png)
 
 Vous avez maintenant accès à **la ligne de commande** !  
-Pour localiser les fichiers sur la clef USB, entrez la commande `diskpart`
+Pour localiser les fichiers sur la clé USB, entrez la commande `diskpart`
 
 ![cmd-diskpart](./images/cmd-diskpart.png)
 
 Entrez maintenant la commande `list vol`. Tous les volumes vont être affichés.  
-Sélectionner celui qui correspond a votre clef USB (disque amovible) puis **retenez la lettre qui lui ai assignée** (ici "_G_")
+Sélectionner celui qui correspond a votre clé USB (disque amovible) puis **retenez la lettre qui lui ai assignée** (ici "_G_")
 
 ![cmd-list](./images/cmd-list.png)
 
