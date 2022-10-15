@@ -155,3 +155,5 @@ Vous pouvez me contacter à l'adresse [**deepcaps@outlook.com**](deepcaps@outloo
 ![MAINTENED](https://img.shields.io/badge/maintained-yes-green.svg)
 
 ![infos](https://github-readme-streak-stats.herokuapp.com/?user=deepcaps)
+
+icon by: __IYAHICON__ ([flaticon](https://www.flaticon.com/fr/auteurs/iyahicon/))
