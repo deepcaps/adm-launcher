@@ -8,20 +8,21 @@ ADMLauncher
 
 # Introduction
 
-_ADMLauncher_ est un script codé en **batch** et fournis avec les programmes d'installation _ADMUnlocker_ et _ADMsetup_. Ces scripts, permettent d'avoir les accès administrateurs sur n'importe quelle machine Windows.
+_ADMLauncher_ est un script codé en **batch** et fournis avec les programmes d'installation _ADMUnlocker_ et _ADMSetup_. Ces scripts, permettent d'avoir les accès administrateurs sur n'importe quelle machine Windows.
 
 ![launcher-menu](./images/launcher-menu.png)
 
 # Procédure
 
 ## Installation du fichier IMG
-> Vous devez tout d'abord avoir téléchargé le repository sur une autre machine `git clone https://github.com/deepcaps/adm-launcher.git` et avoir une clée USB d'au moins **8 gigaoctets**
+> Vous devez tout d'abord avoir téléchargé le fichier IMG ([**ADMUnlocker**](nothing)) et avoir une clée USB d'au moins **8 gigaoctets**
 
-Pour commencer, installez le programme [**rufus**](https://rufus.ie/) (ou autre) pour graver le fichier ISO sur une clef USB.
+Pour commencer, installez le programme [**rufus**](https://rufus.ie/) (ou autre) pour graver le fichier IMG.
 
 Ensuite, gravez le fichier IMG sur la clef USB:
 - "_Périphérique_" => Sélectionnez votre Périphérique USB
 - "_Type de démarrage_" => Sélectionnez l'IMG du repository github
+
 Enfin, cliquez sur "_DEMARRER_" pour lancer la procédure.
 
 > Attention ! Tous les fichiers sur la clef seront supprimés !
