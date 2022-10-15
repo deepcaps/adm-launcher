@@ -120,7 +120,8 @@ Le programme vous demande maintenant le mot de passe pour le compte : entrez en 
 Pour lancer le **ADMLauncher** de façon manuelle, il existe plusieurs façons:
 - Par le raccourci sur le _bureau_
 - Par le raccourci dans le _menu démarrer_
-- Dans la _ligne de commande_ ou dans la _fenêtre "executer"_ (WIN + R) en entrant la commande `ADMLauncher`  
+- Dans la _ligne de commande_ ou dans la _fenêtre "executer"_ (WIN + R) en entrant la commande `ADMLauncher`
+
 La fenêtre suivante s'ouvrira:
 
 ![launcher-menu](./images/launcher-menu.png)
