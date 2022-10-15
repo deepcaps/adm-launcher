@@ -1,5 +1,4 @@
 ADMLauncher
-
 ==========
 
 ### get administrator acces on every windows machines
@@ -49,7 +48,7 @@ Pour finir, dans "_Démarrage avancé_", cliquez sur "**Redémarrer maintenant**
 ### Démarrer sur la clef USB
 > Vous devez maintenant insérer la clef USB créée à l'étape précédente.
 
-L'appareil devra redémarrer puis afficher un écran bleu avec plusieurs options. Cliquez sur "_Utiliser un périphérique_".
+L'appareil devrait redémarrer puis afficher un écran bleu avec plusieurs options. Cliquez sur "_Utiliser un périphérique_".
 
 ![restart-menu](./images/restart-menu.png)
 
