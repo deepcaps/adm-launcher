@@ -94,7 +94,7 @@ Appuyez sur [ENTER] pour lancer le processus.
 
 ![cmd-unlocker](./images/cmd-unlocker.png)
 
-À la fin de ce dernier, appuyez encore une fois sûr [ENTER] pour quitter, puis pour revenir à Windows entrez la commande `exit` et appuyez sur "_Continuer_"
+À la fin de ce dernier, appuyez encore une fois sûr [ENTER] pour quitter, puis pour revenir à Windows entrez la commande `exit`, appuyez sur "_Continuer_" et **Débranchez votre clé USB**
 > Si cela vous renvoi sur la clé USB, cliquez sur "_Eteindre votre PC_" puis débranchez la clé et rallumez la machine
 
 ![usb-windows](./images/usb-windows.png)
@@ -103,8 +103,7 @@ Appuyez sur [ENTER] pour lancer le processus.
 # Setup
 
 De retour sur Windows, **NE VOUS CONNECTEZ PAS A VOTRE SESSION**. Appuyez 5 fois sur la touche [SHIFT].  
-Une nouvelle _ligne de commande_ va s'ouvrir ! Entrez la commande `G:\ADMSetup.exe`
-> **remplacez _G_ de votre clée USB**
+Une nouvelle _ligne de commande_ va s'ouvrir ! Entrez la commande `ADMSetup.exe`
 
 ![setup-launch](./images/setup-launch.png)
 
