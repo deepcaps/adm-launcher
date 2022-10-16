@@ -95,6 +95,7 @@ Appuyez sur [ENTER] pour lancer le processus.
 ![cmd-unlocker](./images/cmd-unlocker.png)
 
 À la fin de ce dernier, appuyez encore une fois sûr [ENTER] pour quitter, puis pour revenir à Windows entrez la commande `exit` et appuyez sur "_Continuer_"
+> Si cela vous renvoi sur la clé USB, cliquez sur "_Eteindre votre PC_" puis débranchez la clé et rallumez la machine
 
 ![usb-windows](./images/usb-windows.png)
 
