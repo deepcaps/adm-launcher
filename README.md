@@ -36,6 +36,7 @@ Enfin, cliquez sur "_DEMARRER_" pour lancer la procédure.
 > Toutes les prochaines étapes sont à effectuer **sur la machine cible**.
 
 Ouvrez les paramètres Windows, rendez vous dans "_Mise à jour et sécurité_" puis dans "_Récupération_"
+> Vous pouvez aussi appuyer sur le bouton "_Redémarrer_" et la touche [SHIFT] en même temps pour acceder au menu.
 
 ![settings](./images/settings.png)
 
@@ -44,6 +45,9 @@ Ouvrez les paramètres Windows, rendez vous dans "_Mise à jour et sécurité_" 
 Pour finir, dans "_Démarrage avancé_", cliquez sur "**Redémarrer maintenant**":
 
 ![restart-button](./images/restart-button.png)
+
+
+> Si cela ne fonctionne pas vous pouver aussi passer par le **bios** ou par le [**boot menu**](https://www.pc83.fr/tools/liste-bios-key-boot-menu-key.html)
 
 
 ### Démarrer sur la clé USB
